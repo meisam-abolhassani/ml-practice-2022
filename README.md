@@ -1,6 +1,6 @@
 # Machine Learning Practice 2022
 
-Early practice notebooks from 2022, built in Google Colab while learning Python for data analysis and machine learning. They come before my Data Analytics with AI diploma at Herzing College. My current projects are pinned on my profile.
+Early practice notebooks from 2022, built in Google Colab while learning Python for data analysis and machine learning. They come before my Data Analytics with AI diploma at Herzing College. My current coursework projects are listed on my profile page.
 
 | Notebook | Topic |
 |---|---|
